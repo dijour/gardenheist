@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 2018ae66eb7de405b9e5c355ebd0be73
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: distance
+    100002: fence1
+    100004: ground1
+    100006: ground_halfFootPerSquare
+    100008: ground_halfFootPerSquare2
+    100010: house
+    100012: locator6
+    100014: locator7
+    100016: locator8
+    100018: pCube10
+    100020: pCube11
+    100022: pCube12
+    100024: pCube13
+    100026: pCube14
+    100028: pCube15
+    100030: pCube16
+    100032: pCube17
+    100034: pCube18
+    100036: pCube20
+    100038: pCube21
+    100040: pCube22
+    100042: pCube24
+    100044: pCube25
+    100046: pCube26
+    100048: pCube8
+    100050: pCube9
+    100052: pCylinder2
+    100054: planter_1
+    100056: planter_1 1
+    100058: planter_2
+    100060: planter_2 1
+    100062: planter_3
+    100064: planter_soil_1
+    100066: planter_soil_1 1
+    100068: planter_soil_1 2
+    100070: planter_soil_1 3
+    100072: planter_soil_1 4
+    100074: planter_wood_1
+    100076: planter_wood_1 1
+    100078: planter_wood_1 2
+    100080: planter_wood_1 3
+    100082: planter_wood_1 4
+    100084: planters_1
+    100086: planters_2
+    100088: pot
+    100090: pot 1
+    100092: pot 2
+    100094: pot 3
+    100096: pot 4
+    100098: pot 5
+    100100: pot 6
+    100102: pot 7
+    100104: pot1
+    100106: pot2
+    100108: pot3
+    100110: pot_dirt
+    100112: pot_dirt 1
+    100114: pot_dirt 2
+    100116: pot_dirt 3
+    100118: pot_dirt 4
+    100120: pot_dirt 5
+    100122: pot_dirt 6
+    100124: pot_dirt 7
+    100126: pot_geo
+    100128: pot_geo1
+    100130: pot_geo2
+    100132: pot_geo3
+    100134: pot_geo4
+    100136: pot_geo5
+    100138: pot_geo6
+    100140: pot_geo7
+    100142: pot_sprout
+    100144: pot_sprout 1
+    100146: pot_sprout 2
+    100148: pot_sprout 3
+    100150: pot_sprout 4
+    100152: pot_sprout 5
+    100154: pot_sprout 6
+    100156: pot_sprout 7
+    100158: pPlane1
+    100160: pPlane2
+    100162: pPlane3
+    100164: pPlane4
+    100166: pPlane5
+    100168: pPlane6
+    100170: //RootNode
+    100172: stairs
+    400000: distance
+    400002: fence1
+    400004: ground1
+    400006: ground_halfFootPerSquare
+    400008: ground_halfFootPerSquare2
+    400010: house
+    400012: locator6
+    400014: locator7
+    400016: locator8
+    400018: pCube10
+    400020: pCube11
+    400022: pCube12
+    400024: pCube13
+    400026: pCube14
+    400028: pCube15
+    400030: pCube16
+    400032: pCube17
+    400034: pCube18
+    400036: pCube20
+    400038: pCube21
+    400040: pCube22
+    400042: pCube24
+    400044: pCube25
+    400046: pCube26
+    400048: pCube8
+    400050: pCube9
+    400052: pCylinder2
+    400054: planter_1
+    400056: planter_1 1
+    400058: planter_2
+    400060: planter_2 1
+    400062: planter_3
+    400064: planter_soil_1
+    400066: planter_soil_1 1
+    400068: planter_soil_1 2
+    400070: planter_soil_1 3
+    400072: planter_soil_1 4
+    400074: planter_wood_1
+    400076: planter_wood_1 1
+    400078: planter_wood_1 2
+    400080: planter_wood_1 3
+    400082: planter_wood_1 4
+    400084: planters_1
+    400086: planters_2
+    400088: pot
+    400090: pot 1
+    400092: pot 2
+    400094: pot 3
+    400096: pot 4
+    400098: pot 5
+    400100: pot 6
+    400102: pot 7
+    400104: pot1
+    400106: pot2
+    400108: pot3
+    400110: pot_dirt
+    400112: pot_dirt 1
+    400114: pot_dirt 2
+    400116: pot_dirt 3
+    400118: pot_dirt 4
+    400120: pot_dirt 5
+    400122: pot_dirt 6
+    400124: pot_dirt 7
+    400126: pot_geo
+    400128: pot_geo1
+    400130: pot_geo2
+    400132: pot_geo3
+    400134: pot_geo4
+    400136: pot_geo5
+    400138: pot_geo6
+    400140: pot_geo7
+    400142: pot_sprout
+    400144: pot_sprout 1
+    400146: pot_sprout 2
+    400148: pot_sprout 3
+    400150: pot_sprout 4
+    400152: pot_sprout 5
+    400154: pot_sprout 6
+    400156: pot_sprout 7
+    400158: pPlane1
+    400160: pPlane2
+    400162: pPlane3
+    400164: pPlane4
+    400166: pPlane5
+    400168: pPlane6
+    400170: //RootNode
+    400172: stairs
+    2100000: lambert1
+    2100002: fence_mat
+    2100004: grass_filler
+    2100006: wood
+    2100008: soil
+    2100010: pot_color
+    2100012: pot_dirt1
+    2100014: pot_sprout1
+    2300000: ground1
+    2300002: ground_halfFootPerSquare
+    2300004: ground_halfFootPerSquare2
+    2300006: pCube10
+    2300008: pCube11
+    2300010: pCube12
+    2300012: pCube13
+    2300014: pCube14
+    2300016: pCube15
+    2300018: pCube16
+    2300020: pCube17
+    2300022: pCube18
+    2300024: pCube20
+    2300026: pCube21
+    2300028: pCube22
+    2300030: pCube24
+    2300032: pCube25
+    2300034: pCube26
+    2300036: pCube8
+    2300038: pCube9
+    2300040: pCylinder2
+    2300042: planter_soil_1
+    2300044: planter_soil_1 1
+    2300046: planter_soil_1 2
+    2300048: planter_soil_1 3
+    2300050: planter_soil_1 4
+    2300052: planter_wood_1
+    2300054: planter_wood_1 1
+    2300056: planter_wood_1 2
+    2300058: planter_wood_1 3
+    2300060: planter_wood_1 4
+    2300062: pot
+    2300064: pot 1
+    2300066: pot 2
+    2300068: pot 3
+    2300070: pot 4
+    2300072: pot 5
+    2300074: pot 6
+    2300076: pot 7
+    2300078: pot1
+    2300080: pot2
+    2300082: pot3
+    2300084: pot_dirt
+    2300086: pot_dirt 1
+    2300088: pot_dirt 2
+    2300090: pot_dirt 3
+    2300092: pot_dirt 4
+    2300094: pot_dirt 5
+    2300096: pot_dirt 6
+    2300098: pot_dirt 7
+    2300100: pot_sprout
+    2300102: pot_sprout 1
+    2300104: pot_sprout 2
+    2300106: pot_sprout 3
+    2300108: pot_sprout 4
+    2300110: pot_sprout 5
+    2300112: pot_sprout 6
+    2300114: pot_sprout 7
+    2300116: pPlane1
+    2300118: pPlane2
+    2300120: pPlane3
+    2300122: pPlane4
+    2300124: pPlane5
+    2300126: pPlane6
+    3300000: ground1
+    3300002: ground_halfFootPerSquare
+    3300004: ground_halfFootPerSquare2
+    3300006: pCube10
+    3300008: pCube11
+    3300010: pCube12
+    3300012: pCube13
+    3300014: pCube14
+    3300016: pCube15
+    3300018: pCube16
+    3300020: pCube17
+    3300022: pCube18
+    3300024: pCube20
+    3300026: pCube21
+    3300028: pCube22
+    3300030: pCube24
+    3300032: pCube25
+    3300034: pCube26
+    3300036: pCube8
+    3300038: pCube9
+    3300040: pCylinder2
+    3300042: planter_soil_1
+    3300044: planter_soil_1 1
+    3300046: planter_soil_1 2
+    3300048: planter_soil_1 3
+    3300050: planter_soil_1 4
+    3300052: planter_wood_1
+    3300054: planter_wood_1 1
+    3300056: planter_wood_1 2
+    3300058: planter_wood_1 3
+    3300060: planter_wood_1 4
+    3300062: pot
+    3300064: pot 1
+    3300066: pot 2
+    3300068: pot 3
+    3300070: pot 4
+    3300072: pot 5
+    3300074: pot 6
+    3300076: pot 7
+    3300078: pot1
+    3300080: pot2
+    3300082: pot3
+    3300084: pot_dirt
+    3300086: pot_dirt 1
+    3300088: pot_dirt 2
+    3300090: pot_dirt 3
+    3300092: pot_dirt 4
+    3300094: pot_dirt 5
+    3300096: pot_dirt 6
+    3300098: pot_dirt 7
+    3300100: pot_sprout
+    3300102: pot_sprout 1
+    3300104: pot_sprout 2
+    3300106: pot_sprout 3
+    3300108: pot_sprout 4
+    3300110: pot_sprout 5
+    3300112: pot_sprout 6
+    3300114: pot_sprout 7
+    3300116: pPlane1
+    3300118: pPlane2
+    3300120: pPlane3
+    3300122: pPlane4
+    3300124: pPlane5
+    3300126: pPlane6
+    4300000: ground_halfFootPerSquare
+    4300002: pPlane1
+    4300004: pPlane2
+    4300006: ground_halfFootPerSquare2
+    4300008: pPlane3
+    4300010: pPlane4
+    4300012: pPlane5
+    4300014: pPlane6
+    4300016: ground1
+    4300018: planter_wood_1
+    4300020: planter_soil_1
+    4300022: planter_wood_1
+    4300024: planter_soil_1
+    4300026: planter_wood_1
+    4300028: planter_soil_1
+    4300030: planter_wood_1
+    4300032: planter_soil_1
+    4300034: planter_wood_1
+    4300036: planter_soil_1
+    4300038: pot
+    4300040: pot_dirt
+    4300042: pot_sprout
+    4300044: pot
+    4300046: pot_dirt
+    4300048: pot_sprout
+    4300050: pot
+    4300052: pot_dirt
+    4300054: pot_sprout
+    4300056: pot
+    4300058: pot_dirt
+    4300060: pot_sprout
+    4300062: pot
+    4300064: pot_dirt
+    4300066: pot_sprout
+    4300068: pot2
+    4300070: pot3
+    4300072: pot
+    4300074: pot_dirt
+    4300076: pot_sprout
+    4300078: pot
+    4300080: pot_dirt
+    4300082: pot_sprout
+    4300084: pot
+    4300086: pot_dirt
+    4300088: pot_sprout
+    4300090: pot1
+    4300092: pCube9
+    4300094: pCube10
+    4300096: pCube11
+    4300098: pCube12
+    4300100: pCube20
+    4300102: pCube21
+    4300104: pCube22
+    4300106: pCube24
+    4300108: pCube25
+    4300110: pCube18
+    4300112: pCube17
+    4300114: pCube16
+    4300116: pCube15
+    4300118: pCube13
+    4300120: pCube14
+    4300122: pCube8
+    4300124: pCube26
+    4300126: pCylinder2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100006, guid: 2018ae66eb7de405b9e5c355ebd0be73, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: ce02fdea2776847f591f68db9151aece
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: button1
+    100002: button2
+    100004: button3
+    100006: button4
+    100008: button5
+    100010: button6
+    100012: buttons_geo
+    100014: eyebrows_geo
+    100016: eyes
+    100018: //RootNode
+    100020: l_eyebrow
+    100022: pants_button
+    100024: pasted__pSphere2
+    100026: pasted__pSphere3
+    100028: r_eyebrow
+    100030: sunhat_geo
+    400000: button1
+    400002: button2
+    400004: button3
+    400006: button4
+    400008: button5
+    400010: button6
+    400012: buttons_geo
+    400014: eyebrows_geo
+    400016: eyes
+    400018: //RootNode
+    400020: l_eyebrow
+    400022: pants_button
+    400024: pasted__pSphere2
+    400026: pasted__pSphere3
+    400028: r_eyebrow
+    400030: sunhat_geo
+    2100000: pants
+    2100002: boots
+    2100004: shirt
+    2100006: glove
+    2100008: hair
+    2100010: skintone
+    2100012: skinRed
+    2100014: shirtSeam
+    2100016: mouth
+    2100018: farmer_boots_mat
+    2100020: pants_seam
+    2100022: buttons
+    2100024: pants_button1
+    2100026: farmer_hat_mat
+    2100028: pasted__farmer_eyewhite_mat
+    2100030: pasted__farmer_boots_mat
+    2300000: button1
+    2300002: button2
+    2300004: button3
+    2300006: button4
+    2300008: button5
+    2300010: button6
+    2300012: //RootNode
+    2300014: l_eyebrow
+    2300016: pants_button
+    2300018: pasted__pSphere2
+    2300020: pasted__pSphere3
+    2300022: r_eyebrow
+    2300024: sunhat_geo
+    3300000: button1
+    3300002: button2
+    3300004: button3
+    3300006: button4
+    3300008: button5
+    3300010: button6
+    3300012: //RootNode
+    3300014: l_eyebrow
+    3300016: pants_button
+    3300018: pasted__pSphere2
+    3300020: pasted__pSphere3
+    3300022: r_eyebrow
+    3300024: sunhat_geo
+    4300000: body_geo
+    4300002: button1
+    4300004: button2
+    4300006: button3
+    4300008: button4
+    4300010: button5
+    4300012: button6
+    4300014: pants_button
+    4300016: r_eyebrow
+    4300018: l_eyebrow
+    4300020: sunhat_geo
+    4300022: pasted__pSphere2
+    4300024: pasted__pSphere3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boots
+    second: {fileID: 2100000, guid: 441144c4ee647483e98b7f4aaf9fe43c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: farmer_hat_mat
+    second: {fileID: 2100000, guid: 0accb8d0134994d5caa4ac795aa589b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glove
+    second: {fileID: 2100000, guid: 441144c4ee647483e98b7f4aaf9fe43c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: d6e7092a384f1465582082950ea24aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth
+    second: {fileID: 2100000, guid: 7edb5890f143849018dbd2c52edbda77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pants
+    second: {fileID: 2100000, guid: 521b927dedb1e4544876647c05620469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt
+    second: {fileID: 2100000, guid: 6c81d668c23b849c0941b3bafe82a66d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skinRed
+    second: {fileID: 2100000, guid: 6dc4240ec91f84a58b112fecbf763d48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skintone
+    second: {fileID: 2100000, guid: 2cae55bf650a34e5c80b3c4eef5bc6ea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
